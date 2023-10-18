@@ -1,0 +1,12 @@
+Both of these mechanisms are related to Python modules; how users interact with them and how they interact with each other. They are explained in detail below. If you’re new to Python modules, see the tutorial section Modules for an introduction.
+
+Abstract base classes according to :pep:`3119`.
+aifc	Deprecated: Read and write audio files in AIFF or AIFC format.
+argparse	Command-line option and argument parsing library.
+array	Space efficient arrays of uniformly typed numeric values.
+ast	Abstract Syntax Tree classes and manipulation.
+asynchat	Deprecated: Support for asynchronous command/response protocols.
+asyncio	Asynchronous I/O.
+asyncore	Deprecated: A base class for developing asynchronous socket handling services.
+atexit	Register and execute cleanup functions.
+audioop	Deprecated: Manipulate raw audio data.
